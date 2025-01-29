@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou o Gabriel Piscke
-Sou estudande em um curso de Análise e Desenvolvimento de Sistemas no Senai, gosto muito da área de desenvolvimento de software principalmente do back-end. Estou tendo experiência com algumas tecnologias durante meu curso como JavaScript, Java, Html e CSS, e Banco de dados, busco aprender coisas novas e resolver problemas desafiadores.
+Sou estudande em um curso de Análise e Desenvolvimento de Sistemas no Senai, gosto muito da área de desenvolvimento de software principalmente do back-end. Estou experimentando algumas tecnologias durante meu curso como JavaScript, Java, Html, CSS e Banco de dados. Procuro aprender coisas novas e resolver problemas desafiadores.
 
 🛠️ **Habilidades Técnicas:**  
-- **Linguagens de programação:** , JavaScript, etc.]  
+- **Linguagens de programação:** JavaScript, Java, HTML, CSS.  
 - **Frameworks e bibliotecas:** [ex.: React, Node.js, TensorFlow, etc.]  
 - **Outras tecnologias:** [ex.: Docker, Git, AWS, etc.]  
 
@@ -10,7 +10,7 @@ Sou estudande em um curso de Análise e Desenvolvimento de Sistemas no Senai, go
 [Escreva o que está aprendendo atualmente, como novas tecnologias, ferramentas ou conceitos.]
 
 📫 **Como me encontrar:**  
-- **E-mail:** [seuemail@exemplo.com]  
+- **E-mail:** gabrielmateuspiscke@gmail.com  
 - **LinkedIn:** [https://linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)  
 - **Portfolio (opcional):** [https://seuportfolio.com](https://seuportfolio.com)
 
