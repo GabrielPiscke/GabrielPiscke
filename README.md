@@ -1,26 +1,24 @@
 # 👋 Olá! Eu sou o Gabriel Piscke
-Sou estudande em um curso de Análise e Desenvolvimento de Sistemas no Senai, gosto muito da área de desenvolvimento de software principalmente do back-end. Estou experimentando algumas tecnologias durante meu curso como JavaScript, Java, Html, CSS e Banco de dados. Procuro aprender coisas novas e resolver problemas desafiadores.
+Sou um estudande em Análise e Desenvolvimento de Sistemas no Senai, gosto muito da área de desenvolvimento de software principalmente do back-end. Estou experimentando algumas tecnologias durante meu curso como JavaScript, Java, Html, CSS e Banco de dados. Procuro aprender coisas novas e resolver problemas desafiadores.
 
 🛠️ **Habilidades Técnicas:**  
-- **Linguagens de programação:** JavaScript, Java, HTML, CSS.  
-- **Frameworks e bibliotecas:** [ex.: React, Node.js, TensorFlow, etc.]  
-- **Outras tecnologias:** [ex.: Docker, Git, AWS, etc.]  
+- **Linguagens de programação:** JavaScript, Java.
+- **Linguagen de marcação:**HTML e CSS.  
+- **Outras tecnologias:** [Git, MySql]  
 
 🌱 **Atualmente aprendendo:**  
-[Escreva o que está aprendendo atualmente, como novas tecnologias, ferramentas ou conceitos.]
+[Atualmente, estou aprendendo novas tecnologias, como estruturar banco de dados no MySql, desenvolvimento backend com Java e APIs com SpringWeb, além de interatividade de páginas HTML com JavaScript.]
 
 📫 **Como me encontrar:**  
-- **E-mail:** gabrielmateuspiscke@gmail.com  
-- **LinkedIn:** [https://linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)  
-- **Portfolio (opcional):** [https://seuportfolio.com](https://seuportfolio.com)
+- **E-mail:** gabrielmateuspiscke@gmail.com
+- - **Celular:** (16) 99132-3955 
+
 
 📌 **Projetos em destaque:**  
-- **[Nome do Projeto 1](link-do-repositório):** [Breve descrição do projeto.]  
-- **[Nome do Projeto 2](link-do-repositório):** [Breve descrição do projeto.]  
+- **[]  
+- **[]  
 
 🚀 **Objetivos:**  
-[Compartilhe seus objetivos de curto ou longo prazo, como "Aprimorar minhas habilidades em desenvolvimento backend" ou "Contribuir para projetos open source".]
+[Pretendo aprimorar minhas habilidades em desenvolvimento Web com foco em backend e contribuir para projetos open source.]
 
 ---
-
-✨ _"A melhor maneira de aprender é compartilhando conhecimento."_  
