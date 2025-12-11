@@ -2,20 +2,21 @@
 Sou um estudande em Análise e Desenvolvimento de Sistemas no Senai, gosto muito da área de desenvolvimento de software principalmente do back-end. Estou experimentando algumas tecnologias durante meu curso como JavaScript, Java, Html, CSS e Banco de dados. Procuro aprender coisas novas e resolver problemas desafiadores.
 
 🛠️ **Habilidades Técnicas:**  
-- **Linguagens de programação:** JavaScript, Java.
-- **Linguagen de marcação:**HTML e CSS.  
-- **Outras tecnologias:** [Git, MySql]  
+- **Linguagens de programação:** JavaScript, Java, MicroPython.
+- **Linguagem de marcação / Estilização:** HTML e CSS.
+- **Frameworks:** JPA, SpringSecurity, Lombook, BootStrap 
+- **Outras tecnologias:** [Git, MySql-WorkBanch, Cloudinary, WebSocket, Mqtt]  
 
 🌱 **Atualmente aprendendo:**  
-[Atualmente, estou aprendendo novas tecnologias, como estruturar banco de dados no MySql, desenvolvimento backend com Java e APIs com SpringWeb, além de interatividade de páginas HTML com JavaScript.]
+[Atualmente, estou aprendendo novas tecnologias, como estruturar banco de dados no MySql, desenvolvimento backend com Java e APIS com SpringWeb, além de interatividade de páginas HTML com JavaScript.]
 
 📫 **Como me encontrar:**  
 - **E-mail:** gabrielmateuspiscke@gmail.com
-- - **Celular:** (16) 99132-3955 
+- **Celular:** (16) 99132-3955 
 
 
 📌 **Projetos em destaque:**  
-- **[]  
+- [SenaiCommunity]  
 - **[]  
 
 🚀 **Objetivos:**  
