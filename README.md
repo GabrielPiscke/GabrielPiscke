@@ -4,7 +4,7 @@ Sou um estudande em Análise e Desenvolvimento de Sistemas no Senai, gosto muito
 🛠️ **Habilidades Técnicas:**  
 - **Linguagens de programação:** JavaScript, Java, MicroPython.
 - **Linguagem de marcação / Estilização:** HTML e CSS.
-- **Frameworks:** JPA, SpringSecurity, Lombook, BootStrap, React, Expo
+- **Frameworks:** JPA, SpringSecurity, Lombok, BootStrap, React, Expo
 - **Outras tecnologias:** [Git, MySql-WorkBanch, Cloudinary, WebSocket, Mqtt, Vite]  
 
 🌱 **Atualmente aprendendo:**  
